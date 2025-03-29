@@ -5,7 +5,7 @@
 docker build -t my-java-app . ; 
 docker run -it --rm my-java-app ; 
 ```
-* ![image](https://github.com/user-attachments/assets/610f401e-996e-48da-acf2-34101e567d7d)
+![image](https://github.com/user-attachments/assets/610f401e-996e-48da-acf2-34101e567d7d)
 
 ## JAVA GAV
 * The GAV (Group, Artifact, Version) coordinates for the Java application are as follows:
